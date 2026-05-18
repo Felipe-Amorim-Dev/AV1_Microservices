@@ -6,7 +6,8 @@
     "apps/*"
   ],
   "scripts": {
-    "product": "npm run dev -w product-service"
+    "product": "npm run dev -w product-service",
+    "order": "npm run dev -w order-service"
   },
   "devDependencies": {
     "typescript": "^5.8.3",
